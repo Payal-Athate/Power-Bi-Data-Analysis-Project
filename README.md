@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis Report (Interactive Report using Power Bi)
+# AdventureWorks Sales Analysis Dashboard (Interactive Dashboard using Power Bi)
 
 ## Project Objectives
 This Power BI project aims to analyze and visualize key business metrics to support data-driven decision-making. The primary goals include:
@@ -16,7 +16,7 @@ This Power BI project aims to analyze and visualize key business metrics to supp
 - DAX (Data Analysis Expressions) for calculated measures and columns.
 - SQL / Excel for data preprocessing.
 - Power BI Service for report sharing and collaboration.
-- 
+
 ## Process
 - Data Collection:
 Data extracted from various business sources (e.g., sales, customer transactions, inventory, etc.).
@@ -26,10 +26,10 @@ Data extracted from various business sources (e.g., sales, customer transactions
   - Creation of relationships between tables for better data modeling.
 
 - Report Development:
- - Designing interactive dashboards.
- - Implementing key performance indicators (KPIs) for business analysis.
- - Creating data visualizations using charts, graphs, tables and AI visuals
- - Use of Drill Through pages, tooltips, parameters
+  - Designing interactive dashboards.
+  - Implementing key performance indicators (KPIs) for business analysis.
+  - Creating data visualizations using charts, graphs, tables and AI visuals
+  - Use of Drill Through pages, tooltips, parameters
 
 - Insights & Analysis:
   - Identifying sales trends and patterns.
